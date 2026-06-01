@@ -7,4 +7,9 @@ interface dummy {
   what: string;
   start: boolean;
   samecolorTshirt: boolean;
+  samecolorTshirt2: boolean;
+  samecolorTshirt3: boolean;
+  dunno: string;
+  dunno2: string;
+  anotha: string;
 }
