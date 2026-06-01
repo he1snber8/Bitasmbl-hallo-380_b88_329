@@ -1,30 +1,5 @@
-interface gummo {
+interface Human {
   name: string;
-  broke: string;
-}
-interface gnx {
-  lol: string;
-}
-interface gnx {
-  lol: string;
-  lol2: string;
-}
-interface gnx {
-  lol: string;
-  lol2: string;
-}
-interface polo {
-  name: string;
-}
-interface polo {
-  name: string;
-}
-interface polo {
-  name: string;
-}
-interface polo {
-  name: string;
-}
-interface polo {
-  name: string;
+  surname: string;
+  age: number;
 }
