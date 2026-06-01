@@ -25,3 +25,6 @@ interface polo {
 interface polo {
   name: string;
 }
+interface polo {
+  name: string;
+}
