@@ -13,3 +13,6 @@ interface gnx {
   lol: string;
   lol2: string;
 }
+interface polo {
+  name: string;
+}
