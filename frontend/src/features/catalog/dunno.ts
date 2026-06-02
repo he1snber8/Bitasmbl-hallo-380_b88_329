@@ -14,3 +14,8 @@ interface Player extends Human {
   team: string;
   position: string;
 }
+
+interface Janitor extends Human {
+  mop: boolean;
+  position: string;
+}
