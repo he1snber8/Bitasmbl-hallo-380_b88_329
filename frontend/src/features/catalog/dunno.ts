@@ -9,3 +9,8 @@ interface Employee extends Human {
   company: string;
   position: string;
 }
+
+interface Player extends Human {
+  team: string;
+  position: string;
+}
