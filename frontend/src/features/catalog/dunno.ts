@@ -19,3 +19,11 @@ interface Janitor extends Human {
   mop: boolean;
   position: string;
 }
+interface Janitor extends Human {
+  mop: boolean;
+  position: string;
+}
+interface RugbyPlaya extends Human {
+  muscles: boolean;
+  position: string;
+}
