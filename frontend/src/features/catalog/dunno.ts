@@ -24,3 +24,7 @@ interface RugbyPlaya extends Human {
   muscles: boolean;
   position: string;
 }
+
+interface CatalogItem {
+  name: string;
+}
