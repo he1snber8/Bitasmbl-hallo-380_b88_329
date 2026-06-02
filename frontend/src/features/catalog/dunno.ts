@@ -4,3 +4,8 @@ interface Human {
   age: number;
   location: string;
 }
+
+interface Employee extends Human {
+  company: string;
+  position: string;
+}
