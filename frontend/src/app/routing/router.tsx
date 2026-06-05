@@ -7,6 +7,9 @@ function CatalogPage() {
 function ProductDetailsPage() {
   return <h1>Product Details</h1>;
 }
+function ProductDetailsPag2() {
+  return <h1>Product Details</h1>;
+}
 
 function NotFoundPage() {
   return <h1>404 - Page Not Found</h1>;
