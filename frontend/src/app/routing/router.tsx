@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function CatalogPage() {
-  return <h1>Catalog</h1>;
+  return <h1>This is Catalog Page!</h1>;
 }
 
 function ProductDetailsPage() {
