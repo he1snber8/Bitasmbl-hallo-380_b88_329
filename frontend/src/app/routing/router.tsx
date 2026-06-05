@@ -1,3 +1,15 @@
+/**
+ * [BITASMBL] Score : 12/100 STATUS: ❌ FAIL | 
+ * CRITICAL INSIGHT:   The foundational React Router configuration for global routes is entirely missing, leaving the application without a navigation structure.
+ */
+
+/**
+ * [BITASMBL] - Configure global state and routing
+ * ------------------------------
+ * Application routes (e.g., catalog, product details, unknown) are not yet configured using React Router's <Routes> and <Route> components.
+ * ProductDetailsPag2 appears to be a duplicate or typo and is not utilized in a route configuration.
+ */
+
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function CatalogPage() {
