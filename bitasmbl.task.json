@@ -1,31 +1,31 @@
 {
   "projectApplicationId": 329,
-  "requirementId": 832,
+  "requirementId": 833,
   "files": [
-    "frontend/src/features/cart/cart3.tsx"
+    "frontend/src/app/routing/router.tsx"
   ],
   "activityMeta": {
-    "file": "frontend/src/ui/cart/cart.tsx",
-    "requirementName": "Implement cart management UI",
-    "changes": 3,
+    "file": "frontend/src/app/routing/router.tsx",
+    "requirementName": "Configure global state and routing",
+    "changes": 1,
     "modifiedRanges": [
       {
         "startLine": 1,
-        "endLine": 11,
-        "lineCount": 11
+        "endLine": 30,
+        "lineCount": 30
       }
     ],
     "timestamps": {
-      "firstModified": "2026-06-05T15:47:41.332Z",
-      "lastModified": "2026-06-05T15:49:40.275Z"
+      "firstModified": "2026-06-05T18:46:32.842Z",
+      "lastModified": "2026-06-05T18:46:32.842Z"
     },
     "activity": {
-      "activeDurationSec": 118,
+      "activeDurationSec": 0,
       "idleBreaks": 0,
-      "avgIntervalSec": 39.333333333333336
+      "avgIntervalSec": 0
     },
     "diffStats": {
-      "linesAdded": 11,
+      "linesAdded": 30,
       "linesDeleted": 0,
       "largeChangeEvents": 0
     },
