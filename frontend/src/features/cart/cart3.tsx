@@ -1,16 +1,3 @@
-/**
- * [BITASMBL] Score : 100/100 STATUS: 🚀 PASS | 
- * CRITICAL INSIGHT:   The developer successfully implemented a complete cart management UI including item manipulation and real-time total calculations in the provided new file.
- */
-
-/**
- * [BITASMBL] - Implement cart management UI
- * ------------------------------
- * Consider adding explicit type annotations for 'total' and 'item' in the cartCount reducer for improved type safety.
- * The 'Total' value currently displays the same as 'Subtotal'. Clarify if additional calculations (e.g., tax, shipping) are intended for the final total.
- * Using Math.max(1, item.quantity - 1) is a good implementation for preventing invalid quantities below one.
- */
-
 import { useMemo, useState } from "react";
 
 type Product = {
@@ -172,7 +159,6 @@ export default function CartDemo() {
             </div>
           </div>
         )}
-
       </section>
     </div>
   );

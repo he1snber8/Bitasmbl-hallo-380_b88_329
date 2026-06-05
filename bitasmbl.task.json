@@ -2,7 +2,7 @@
   "projectApplicationId": 329,
   "requirementId": 832,
   "files": [
-    "frontend/src/features/cart/cart2.tsx"
+    "frontend/src/features/cart/cart3.tsx"
   ],
   "activityMeta": {
     "file": "frontend/src/ui/cart/cart.tsx",
