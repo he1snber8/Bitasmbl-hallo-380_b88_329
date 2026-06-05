@@ -1,15 +1,3 @@
-/**
- * [BITASMBL] Score : 5/100 STATUS: ❌ FAIL |
- * CRITICAL INSIGHT:   The created component is a basic placeholder; it lacks any actual cart management logic or UI structure to meet the requirements.
- */
-
-/**
- * [BITASMBL] - Implement cart management UI
- * ------------------------------
- * The component is a minimal placeholder. It does not implement any cart items, quantity controls, or pricing logic as required.
- * This is placeholder text. Replace with actual cart UI elements like item lists, quantity selectors, and price displays.
- */
-
 import { useMemo, useState } from "react";
 
 type Product = {
